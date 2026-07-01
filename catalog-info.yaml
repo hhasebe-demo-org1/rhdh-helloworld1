@@ -16,5 +16,5 @@ metadata:
     argocd/app-selector: app.kubernetes.io/instance=helloworld1-init
 spec:
   type: website
-  owner: user:default/alexw-r5ls.onmicrosoft.com
+  owner: group:default/group1
   lifecycle: production
