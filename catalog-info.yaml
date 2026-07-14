@@ -10,6 +10,7 @@ metadata:
       title: App Repository
       icon: github
   annotations:
+    github.com/project-slug: hhasebe-demo-org1/rhdh-helloworld1
     backstage.io/kubernetes-label-selector: 'app=helloworld1'
     backstage.io/kubernetes-namespace: helloworld1
     backstage.io/source-location: url:https://github.com/hhasebe-demo-org1/rhdh-helloworld1
